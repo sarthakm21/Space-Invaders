@@ -1,5 +1,5 @@
 # Space-Invaders
-To run the game, start a local server on your computer.
+To run the game locally, start a local server on your computer.
 
 I recommend using a Live Server Extension for the text editor you are using
 - For vscode, install the live server extension
